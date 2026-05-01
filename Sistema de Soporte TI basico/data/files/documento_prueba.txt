@@ -1,0 +1,3 @@
+Este es un documento de prueba para el sistema de organización de archivos.
+Contenido de ejemplo para demostrar la funcionalidad del sistema.
+Fecha de creación: 01/05/2026

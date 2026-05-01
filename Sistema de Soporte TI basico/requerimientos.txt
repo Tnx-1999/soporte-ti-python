@@ -1,0 +1,4 @@
+# Sistema de Soporte TI Básico - Dependencias
+# No se requieren dependencias externas para el funcionamiento básico
+# El sistema utiliza solo módulos estándar de Python 3
+

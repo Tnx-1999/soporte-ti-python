@@ -1,0 +1,21 @@
+2024-01-15 08:30:15 [INFO] Sistema iniciado correctamente
+2024-01-15 08:31:22 [INFO] Usuario admin@empresa.com ha iniciado sesión
+2024-01-15 08:32:45 [WARNING] Intento de acceso fallido desde IP 192.168.1.105
+2024-01-15 08:33:10 [INFO] Proceso de backup iniciado
+2024-01-15 08:35:33 [ERROR] No se puede conectar a la base de datos: Connection timeout
+2024-01-15 08:36:15 [INFO] Reconexión a base de datos exitosa
+2024-01-15 08:40:22 [INFO] Backup completado exitosamente
+2024-01-15 09:15:33 [WARNING] Uso de CPU elevado: 85%
+2024-01-15 09:16:45 [ERROR] Error en módulo de pagos: Código 502
+2024-01-15 09:17:10 [CRITICAL] Sistema de pagos caído - intervención manual requerida
+2024-01-15 09:20:15 [INFO] Sistema de pagos reiniciado
+2024-01-15 09:21:30 [INFO] Usuario soporte@empresa.com ha iniciado sesión
+2024-01-15 09:25:44 [DEBUG] Verificación de integridad de datos completada
+2024-01-15 09:30:15 [INFO] Tarea programada ejecutada: Limpieza de caché
+2024-01-15 09:45:22 [WARNING] Espacio en disco bajo: 15% disponible
+2024-01-15 10:00:00 [INFO] Reporte diario generado exitosamente
+2024-01-15 10:15:33 [ERROR] Fallo al enviar email a cliente@ejemplo.com
+2024-01-15 10:16:45 [INFO] Reintentando envío de email...
+2024-01-15 10:17:22 [INFO] Email enviado exitosamente
+2024-01-15 10:30:15 [WARNING] Actualización de sistema disponible
+2024-01-15 10:45:33 [INFO] Usuario cliente_final@gmail.com ha iniciado sesión

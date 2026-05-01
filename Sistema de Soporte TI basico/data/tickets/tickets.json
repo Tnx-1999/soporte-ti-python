@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TKT-001",
+    "title": "Sin conexion internet",
+    "description": "no tengo conexion",
+    "priority": "media",
+    "status": "abierto",
+    "requester": "matias Santander",
+    "created_at": "2026-05-01T12:11:30.399638",
+    "updated_at": "2026-05-01T12:11:30.399663",
+    "assigned_to": null,
+    "comments": []
+  }
+]
